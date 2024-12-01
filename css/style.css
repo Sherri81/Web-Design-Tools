@@ -1,36 +1,32 @@
 h1, h2, h3, h4, h5, h6, p {
-    color: #470ad481;
-    font: 700 Arial, Helvetica, sans-serif;
-}
-
-header {
-	background-color: rgb(99, 84, 236);
-}
-
-footer {
-	background-color: rgb(99, 84, 236);
-}
-
-body {
-        background-color: rgb(128, 118, 220);
-        }
-section {
-    background-color: rgb(37, 156, 236);
-}
-a:link {
-    background-color: rgb(63, 21, 229);
+  color : #470ad481;
   }
-a:hover {
-    background-color: rgb(16, 223, 219);
+  header {
+  background-color : rgb(99, 84, 236);
   }
-a:visited {
-    background-color: rgb(12, 240, 20);
+  footer {
+  background-color : rgb(99, 84, 236);
   }
-.special{
-    color: #26597b;
-    background-color: blue;
-}
-.new{
-    font-size: 120%;
-    color: rgb(244, 8, 8);
-}
+  body {
+  background-color : rgb(128, 118, 220);
+  }
+  section {
+  background-color : rgb(37, 156, 236);
+  }
+  a:link {
+  background-color : rgb(63, 21, 229);
+  }
+  a:hover {
+  background-color : rgb(16, 223, 219);
+  }
+  a:visited {
+  background-color : rgb(12, 240, 20);
+  }
+  .special {
+  color : #26597b;
+  background-color : blue;
+  }
+  .new {
+  font-size : 120%;
+  color : rgb(244, 8, 8);
+  }
